@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "dev": "deno run --watch main.ts"
+  },
+  "imports": {
+    "@faker-js/faker": "https://esm.sh/@faker-js/faker@8.0.2"
+  }
+}
